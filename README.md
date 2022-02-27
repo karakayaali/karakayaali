@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karakayaali
 - 👀 I’m interested in programming about APIs
-- 🌱 I’m currently learning JavaScript, Excel VBA, C and MATLAB.
+- 🌱 I’m currently learning JavaScript, JSON, Excel VBA, C and MATLAB.
 - 📫 How to reach me ...
 
 <!---
